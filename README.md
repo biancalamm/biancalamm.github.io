@@ -1,1 +1,1 @@
-# biancalamm.github.io
+This is the source code to Bianca Lamm's public academic website: https://biancalamm.github.io/.
