@@ -1,0 +1,14 @@
+- education:
+  degree: PhD Computer Vision
+  time: 2021 - now
+  details: "Supervisor: Prof. Dr. Janis Keuper"
+- education:
+  degree: M.Sc. Computer Science
+  university: University of Freiburg, Germany
+  time: 2015 - 2018
+  details: "Specialization: information systems<br/>Elective module: business studies"
+- education:
+  degree: B.Sc. Computer Science
+  university: University of Freiburg, Germany
+  time: 2012 - 2015
+  details: "Elective module: business studies"

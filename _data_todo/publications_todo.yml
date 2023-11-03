@@ -1,0 +1,15 @@
+- publication:
+  title: "Retail-786k..."
+  authors: <b>Bianca Lamm</b>, Janis Keuper
+  time: 2023
+  short: "TODO short"
+  details: <a href="https://arxiv.org/pdf/TODO.pdf">arXiv</a> / <a href="https://github.com/TODO">code</a>
+  image: images/small/TODO.png
+- publication:
+  title: "Fine-Grained Product Classification on Leaflet Advertisements"
+  authors: Daniel Ladwig, <b>Bianca Lamm</b>, Janis Keuper
+  time: 2023
+  short: "TODO short"
+  conference: "CVPR - FGVC10 Workshop"
+  details: <a href="https://arxiv.org/pdf/2305.03706.pdf">arXiv</a> / <a href="https://github.com/ladwigd/Leaflet-Product-Classification">code</a>
+  image: images/small/fg_product_cls.png
