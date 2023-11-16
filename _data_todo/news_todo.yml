@@ -1,30 +1,15 @@
-- news_entry:
-  date: 08/2023
-  text: <a href="http://arxiv.org/abs/2308.06612">On the Interplay of Convolutional Padding and Adversarial Robustness</a> was accepted for the ICCV 2023 workshop proceedings.
-- news_entry:
-  date: 04/2023
-  text: I was accepted at the ICVSS 2023 and the CIFAR DLRL 2023 Summer Schools.
-- news_entry:
-  date: 03/2023
-  text: <a href="https://arxiv.org/abs/2303.12669">An Extended Study of Human-like Behavior under Adversarial Training</a> was accepted for the CVPR 2023 workshop proceedings.
-- news_entry:
-  date: 12/2022
-  text: I was selected as a NeurIPS 2022 Datasets and Benchmarks Track outstanding reviewer.
-- news_entry:
-  date: 11/2022
-  text: I was invited to talk at the <a href="https://2023.biomedicalimaging.org/en/SPECIAL-SESSIONS.html">IEEE ISBI Special Session on Machine Learning</a> in April 2023. Looking forward for my first invited conference talk in Cartagena, Columbia!
-- news_entry:
-  date: 09/2022
-  text: 1 full paper and 1 workshop paper accepted at NeurIPS 2022.
-- news_entry:
-  date: 05/2022
-  text: 1 workshop paper accepted at ICML 2022.
-- news_entry:
-  date: 03/2022
-  text: <a href="https://arxiv.org/abs/2203.15331">CNN Filter DB</a> was selected for Oral presentation at CVPR 2022!
-- news_entry: 
-  date: 01/2022
-  text: 1 full paper and 1 workshop paper accepted at CVPR 2022.
-- news_entry:
-  date: 09/2021
-  text: 1 workshop paper accepted at NeurIPS 2021.
+# participation at URAI?
+# Upload dataset retail786k; arXiv link, zenodo link, website link
+# workshop paper FGVC10 at CVPR 2023
+
+
+##########################################################################
+# - news_entry:
+#   date: 03/2022
+#   text: <a href="https://arxiv.org/abs/2203.15331">CNN Filter DB</a> was selected for Oral presentation at CVPR 2022!
+# - news_entry: 
+#   date: 01/2022
+#   text: 1 full paper and 1 workshop paper accepted at CVPR 2022.
+# - news_entry:
+#   date: 09/2021
+#   text: 1 workshop paper accepted at NeurIPS 2021.
