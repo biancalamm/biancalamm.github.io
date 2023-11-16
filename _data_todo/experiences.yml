@@ -1,30 +1,35 @@
 - experience:
   role: Scientific staff
-  time: 01/2021 - now
+  time: 07/2022 - now
   company: Institute for Machine Learning and Analytics (IMLA), Offenburg University, Germany
-  details: ""
+  details: "XXX"
 - experience:
-  role: Scientific staff
-  time: 09/2018 - 12/2020
-  company: Department of Business and Industrial Engineering (B+W), Offenburg University, Germany
-  details: ""
+  role: Data Scientist
+  time: 07/2022 - now
+  company: Markant Services International, Offenburg , Germany
+  details: "XXX"
+- experience:
+  role: Machine Learning Engineer
+  time: 04/2020 - 06/2022
+  company: Optimum datamanagement solutions GmbH, Karlsruhe, Germany
+  details: "XXX"
 - experience:
   role: Master's degree candidate
-  time: 11/2017 - 07/2018
-  company: NewTec GmbH, Freiburg, Germany
-  details: ""
+  time: 07/2019 - 02/2020
+  company: Fraunhofer IOSB, Karlsruhe, Germany
+  details: "Thesis title: XXX"
 - experience:
-  role: Research assistant
-  time: 07/2016 - 07/2017
-  company: Department for Embedded Systems (ESE), University of Freiburg, Germany
-  details: ""
+  role: Scientific staff
+  time: 09/2016 - 08/2018
+  company: Stuttgart University of Applied Sciences, Germany
+  details: "XXX"
+- experience: 
+  role: Bachelor's degree candidate
+  time: 03/2016 - 08/2016
+  company: Schaeffler Gruppe, Bühl, Germany
+  details: "Thesis title: XXX"
 - experience:
-  role: Founder, Managing director
-  time: 03/2015 - 01/2017
-  company: Nelvo UG (haftungsbeschränkt), Freiburg, Germany
-  details: ""
-- experience:
-  role: Independent software developer
-  time: 03/2012 - 12/2014
-  company: motioncoding, Freiburg, Germany
-  details: ""
+  role: Internship
+  time: 09/2015 - 02/2016
+  company: ISBE, Stuttgart, Germany # ISBE Gmbh?????
+  details: "XXX"
