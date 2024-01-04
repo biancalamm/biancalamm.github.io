@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * 07/2022 - now:
-  * Ph.D. candidate in Computer Science
+  * Ph.D. candidate in Computer Science, Institute for Machine Learning and Analytics (IMLA), Offenburg University, Germany
 * 09/2016 - 02/2022:
   * M.Sc. in Mathematics, Stuttgart University of Applied Sciences, Germany
 * 03/2013 - 08/2016:
@@ -49,10 +49,9 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  

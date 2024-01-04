@@ -2,7 +2,7 @@
 title: "Retail-786k: a Large-Scale Dataset for Visual Entity Matching"
 collection: publications
 permalink: /publication/arXiv_2023
-excerpt: 'XXX'
+excerpt: 'We introduce the first publicly available large-scale dataset for “visual entity matching”, based on a production level use case in the retail domain. Using scanned advertisement leaflets, collected over several years from different European retailers, we provide a total of ~786k manually annotated, high resolution product images containing ~18k different individual retail products which are grouped into ~3k entities.'
 date: 2023-09-29
 paperurl: 'https://arxiv.org/pdf/2309.17164.pdf'
 ---

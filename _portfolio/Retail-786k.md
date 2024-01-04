@@ -2,10 +2,9 @@
 title: "Retail-786k"
 collection: portfolio
 permalink: /portfolio/Retail-786k
-excerpt: 'XXX'
-date: 2023-10-03
-venue: 'zenodo'
-paperurl: 'https://arxiv.org/pdf/2309.17164.pdf'
+excerpt: 'We introduce the first publicly available large-scale dataset for “visual entity matching”, based on a production level use case in the retail domain. Using scanned advertisement leaflets, collected over several years from different European retailers, we provide a total of ~786k manually annotated, high resolution product images containing ~18k different individual retail products which are grouped into ~3k entities.'
+date: 2023-06-06
+paperurl: 'https://www.retail-786k.org/'
 ---
 
 Entity Matching (EM) defines the task of learning to group objects by transferring semantic concepts from example groups (=entities) to unseen data. Despite the general availability of image data in the context of many EM-problems, most currently available EM-algorithms solely rely on (textual) meta data.
@@ -16,4 +15,5 @@ In the context of retail products, the term “visual entity matching” refers 
 
 [Download paper here](https://arxiv.org/pdf/2309.17164.pdf)
 
+[Link to website](https://www.retail-786k.org/)
 

@@ -2,9 +2,11 @@
 title: "Fine-Grained Product Classification on Leaflet Advertisements"
 collection: publications
 permalink: /publication/CVPR_FGVC10_Workshop
-excerpt: 'XXX'
+excerpt: 'In this paper, we describe a first publicly available fine-grained product recognition dataset based on leaflet
+images. We provide a total of 41.6k manually annotated product images in 832 classes.
+Further, we investigate three different approaches for this fine-grained product classification task.'
 date: 2023-06-18
-venue: 'CVPR 2023, Vancouver'
+venue: 'FGVC10: 10th Workshop on Fine-grained Visual Categorization, CVPR 2023, Vancouver'
 paperurl: 'https://drive.google.com/file/d/1Pno8kkc7vr72F-1vRHk6Emsm68hPS-ZW/view'
 ---
 In this paper, we describe a first publicly available fine-grained product recognition dataset based on leaflet images. Using advertisement leaflets, collected over several
