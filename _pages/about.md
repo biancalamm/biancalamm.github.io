@@ -16,4 +16,5 @@ It would be my pleasure to collaborate on interesting topics within these domain
 
 News
 ------
+* 08/28/2024: Our work about using VLMs regarding VQA task was accepted at ECCV24, Workshop on Emergent Visual Abilities and Limits of Foundation Models!
 * 06/06/2023: Our dataset Retail-786k is published!
