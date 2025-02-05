@@ -6,13 +6,25 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
-  <div class="author__avatar">
+  <!-- <div class="author__avatar">
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
     {% endif %}
-  </div>
+  </div> -->
+
+  <div class="author__avatar" id="avatar-container"></div>
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      let img = document.createElement("img");
+      img.src = "/images/profile.jpg";  // Path to the real image
+      img.alt = "{{ author.name }}";  
+      img.className = "author__avatar";  
+      document.getElementById("avatar-container").appendChild(img);
+    });
+  </script>
+
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
