@@ -6,28 +6,13 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
-  <!-- <div class="author__avatar">
+  <div class="author__avatar">
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
     {% endif %}
-  </div> -->
-
-  <div class="author__avatar" id="avatar-container"></div>
-  <script>
-    document.addEventListener("DOMContentLoaded", function() {
-      // Check if the avatar is set to the "dynamic-avatar" placeholder
-      if ("{{ author.avatar }}" === "dynamic-avatar") {
-        let img = document.createElement("img");
-        img.src = "{{ '/images/profile.jpg' | prepend: base_path }}";  // Path to the actual image
-        img.alt = "{{ author.name }}";  
-        img.className = "author__avatar";
-        // Append the image to the container after the DOM is ready
-        document.getElementById("avatar-container").appendChild(img);
-      }
-    });
-  </script>
+  </div>
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
