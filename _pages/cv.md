@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* 07/2022 - now:
-  * Ph.D. candidate in Computer Science, Institute for Machine Learning and Analytics (IMLA), Offenburg University, Germany
+* 07/2024 - now:
+  * Doctoral candidate, Promotionsverband Baden-Württemberg - Institute for Machine Learning and Analytics (IMLA), Offenburg University, Germany
 * 09/2016 - 02/2022:
   * M.Sc. in Mathematics, Stuttgart University of Applied Sciences, Germany
 * 03/2013 - 08/2016:
@@ -20,7 +20,10 @@ Education
 
 Academic experience
 ======
-* 07/2022 - now:
+* 07/2024 - now:
+  * Data Scientist (Markant Services International, Offenburg , Germany)<br>
+  Creating and investigating innovative deep learning-based solutions, utilizing cloud computing.
+* 07/2022 - 06/2024:
   * Scientific Staff (Institute for Machine Learning and Analytics (IMLA), Offenburg University, Germany)<br>
   Researching on computer vision and foundational models, and teaching course about Data Science.
   * Data Scientist (Markant Services International, Offenburg , Germany)<br>
