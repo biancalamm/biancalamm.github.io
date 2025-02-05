@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Bianca Lamm"
-description              : &description "PhD Candidate"
+description              : &description "Doctoral Candidate"
 url                      : "https://biancalamm.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "biancalamm/biancalamm.github.io"
@@ -81,8 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Bianca Lamm"
-  avatar           : "profile.jpg"
-  bio              : "PhD Candidate"
+  # avatar           : "profile.jpg"
+  avatar           : "hidden"
+  bio              : "Doctoral Candidate"
   location         : 
   employer         : "Offenburg University"
   pubmed           : 
