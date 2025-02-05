@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Bianca Lamm"
   # avatar           : "profile.jpg"
-  avatar           : "hidden"
+  avatar           : "dynamic-avatar"
   bio              : "Doctoral Candidate"
   location         : 
   employer         : "Offenburg University"
