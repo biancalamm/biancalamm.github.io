@@ -16,5 +16,6 @@ It would be my pleasure to collaborate on interesting topics within these domain
 
 News
 ------
+* 03/29/2025: Our novel created Visual RAG Pipeline was accepted at the 12th Workshop on Fine-Grained Visual Categorization at CVPR 2025!
 * 08/28/2024: Our work about using VLMs regarding VQA task was accepted at ECCV24, Workshop on Emergent Visual Abilities and Limits of Foundation Models!
 * 06/06/2023: Our dataset Retail-786k is published!
